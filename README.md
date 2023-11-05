@@ -10,3 +10,4 @@
 
 * git pull
 * git fetch
+* git diff origin/main
