@@ -9,4 +9,4 @@
 * git push
 
 * git pull
-* git fatch
+* git fetch
