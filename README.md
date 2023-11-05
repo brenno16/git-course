@@ -5,3 +5,5 @@
 # Testando Git diff
 
 # Git restore
+
+* git push
