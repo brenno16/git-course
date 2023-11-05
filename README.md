@@ -7,3 +7,5 @@
 # Git restore
 
 * git push
+
+* git pull
